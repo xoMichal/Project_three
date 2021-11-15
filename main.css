@@ -159,6 +159,7 @@ ol > li
     display: flex;
     align-items: center;
     width: 80%;
+    margin-top: 40px;
 }
 .content1
 {
@@ -464,6 +465,7 @@ line-height: 130%;
     text-align: left;
     justify-content: flex-start;
     margin-left: 40px;
+    margin-top: 30px;
 }
 .opinion h4
 {
@@ -829,8 +831,6 @@ h3
 .icons i
 {
     color: #9C69E2; 
-    
-    
 }
 .fa-comment-dots
 {
