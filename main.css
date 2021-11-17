@@ -109,6 +109,7 @@ ol > li
     font-weight: 500;
     width: 50%;
     word-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
 }
 #right_img
 {
@@ -150,7 +151,7 @@ ol > li
 }
 #title2
 {
-    font-family: Helvetica;
+    font-family: 'Merriweather Sans', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -163,7 +164,7 @@ ol > li
 }
 .content1
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -185,7 +186,7 @@ ol > li
 #Features h1
 {
     margin: 5% auto 2% auto;
-    font-family: Helvetica;
+    font-family: 'Merriweather Sans', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 40px;
@@ -195,7 +196,7 @@ line-height: 130%;
 {
     margin: 3% auto 5% auto ;
     width: 37%;
-    text-align: center;font-family: Avenir;
+    text-align: center;font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -285,7 +286,7 @@ line-height: 130%;
 .title
 {
     width: 40%;
-    font-family: Helvetica;
+    font-family: 'Merriweather Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -297,7 +298,7 @@ line-height: 130%;
 .content
 {
     width: 45%;
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -319,7 +320,7 @@ line-height: 130%;
 {
     border: none;
     background-color: transparent;
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 16px;
@@ -384,7 +385,7 @@ line-height: 130%;
 .titleTesti
 {
     color: white;
-    font-family: Helvetica;
+    font-family: 'Merriweather Sans', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -469,7 +470,7 @@ line-height: 130%;
 }
 .opinion h4
 {
-   font-family: Avenir;
+   font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 18px;
@@ -486,7 +487,7 @@ line-height: 130%;
 }
 .web span
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -496,7 +497,7 @@ line-height: 130%;
 }
 .web2 span
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -528,7 +529,7 @@ line-height: 130%;
 .sentence span
 {   
     width: 40%;
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -538,7 +539,7 @@ line-height: 130%;
 .sentence1 span
 {   
     width: 40%;
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -548,7 +549,7 @@ line-height: 130%;
 .sentence2 span
 {   
     width: 40%;
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -593,7 +594,7 @@ line-height: 130%;
 }
 .top_left p
 {
-    font-family: Helvetica;
+    font-family: 'Merriweather Sans', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -604,7 +605,7 @@ line-height: 130%;
 }
 .content_free p 
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -656,7 +657,7 @@ line-height: 130%;
 }
 .boldSpan
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -667,7 +668,7 @@ line-height: 130%;
 }
 .normalSpan
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -683,7 +684,7 @@ line-height: 130%;
 }
 .about span
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 16px;
@@ -697,7 +698,7 @@ line-height: 130%;
 }
 .help span
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 16px;
@@ -710,7 +711,7 @@ line-height: 130%;
 }
 .socialMedia span
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 16px;
@@ -737,7 +738,7 @@ h3
 
 .table p
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -798,7 +799,7 @@ h3
 }
 .text
 {
-    font-family: Avenir;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
